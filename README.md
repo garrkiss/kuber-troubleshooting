@@ -4,13 +4,13 @@
 
 
 Ошибка при деплое, отсутствовали нужные namespaces. Создал
-![Ссылка](https://github.com/garrkiss/kuber-update-app/blob/main/img/task1/1.png)
+![Ссылка](https://github.com/garrkiss/kuber-troubleshooting/blob/main/img/1.png)
 
 В логах пода были ошибки
-![Ссылка](https://github.com/garrkiss/kuber-update-app/blob/main/img/task1/1.png)
+![Ссылка](https://github.com/garrkiss/kuber-troubleshooting/blob/main/img/2.png)
 
 Исправил деплоймент добавив .data
-![Ссылка](https://github.com/garrkiss/kuber-update-app/blob/main/img/task1/1.png)
+![Ссылка](https://github.com/garrkiss/kuber-troubleshooting/blob/main/img/3.png)
 
 Проверил логи, работает
-![Ссылка](image.png)
+![Ссылка](https://github.com/garrkiss/kuber-troubleshooting/blob/main/img/4.png)
